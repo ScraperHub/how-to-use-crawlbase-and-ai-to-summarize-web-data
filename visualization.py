@@ -1,8 +1,8 @@
-
 from data_frame import generate_data_frame
 import matplotlib.pyplot as plt
 
 df = generate_data_frame('https://www.amazon.com/Best-Sellers-Electronics/zgbs/electronics/ref=zg_bs_nav_electronics_0')
+
 plt.figure(figsize=(10, 5))
 plt.barh(df["title"], df["customerReviewCount"], color='skyblue')
 plt.xlabel("Review Count")
