@@ -1,6 +1,6 @@
 # How to Use Crawlbase and AI to Summarize Web Data
 
-We invite you to explore our [blog](https://crawlbase.com/blog/how-to-use-crawlbase-and-ai-to-summarize-web-data/) for more details.
+We invite you to explore our [blog](https://crawlbase.com/blog/how-to-use-crawlbase-and-ai-to-summarize-web-data/?utm_source=github&utm_medium=referral&utm_campaign=scraperhub&ref=gh_scraperhub) for more details.
 
 ## Setting Up Your Coding Environment
 
@@ -26,6 +26,9 @@ Before running the examples, make sure to:
 
 1. Replace `<OpenAI API Key>` with your [OpenAI API Key](https://platform.openai.com/api-keys).
 2. Replace every instance of `<Crawlbase Normal requests token>` with your [Crawlbase Normal requests token](https://crawlbase.com/dashboard/account/docs).
+
+🛡 Disclaimer
+This repository is for educational purposes only. Please make sure you comply with the Terms of Service of any website you scrape. Use this responsibly and only where permitted.
 
 ---
 
