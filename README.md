@@ -1,3 +1,11 @@
+<a href="https://crawlbase.com/signup?utm_source=github&utm_medium=readme&utm_campaign=smart_proxy_banner" target="_blank">
+  <img width="1090" height="275" 
+       src="https://github.com/user-attachments/assets/6735e89e-3a75-43d8-b613-7a5ae776441d" 
+       alt="smart-proxy-cta" 
+       style="max-width: 100%; border: 0;">
+</a>
+
+
 # How to Use Crawlbase and AI to Summarize Web Data
 
 We invite you to explore our [blog](https://crawlbase.com/blog/how-to-use-crawlbase-and-ai-to-summarize-web-data/?utm_source=github&utm_medium=referral&utm_campaign=scraperhub&ref=gh_scraperhub) for more details.
